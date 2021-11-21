@@ -1,0 +1,1 @@
+{"uuid":"876c771e-390c-4d8e-89ca-52f42cf8814b","name":"AppiumMobileAutomation","children":["c0bceb2f-14ce-49c2-9029-a96b3390262c"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1637432041033,"stop":1637432053470}],"afters":[],"start":1637432041007,"stop":1637432059203}
